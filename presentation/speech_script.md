@@ -1,6 +1,6 @@
 # The First Industrial Revolution in the UK — Full Speech Script
 
-> 🕐 Duration: ~6.5 minutes (~800 words)
+> 🕐 Duration: ~6.5 minutes (~850 words)
 > 🎓 Audience: University students with basic history knowledge
 
 ---
