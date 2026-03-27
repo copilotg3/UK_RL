@@ -9,8 +9,10 @@ This repository contains a complete set of materials for a 5–7 minute English 
 | File | Description |
 |---|---|
 | [`presentation/outline.md`](presentation/outline.md) | 5-chapter structured outline with time allocations, transition sentences, and visual aid suggestions |
-| [`presentation/speech_script.md`](presentation/speech_script.md) | Full speech script (~800 words) ready for delivery |
-| [`presentation/slides_guide.md`](presentation/slides_guide.md) | Slide-by-slide content guide for PowerPoint / Google Slides / Keynote |
+| [`presentation/speech_script.md`](presentation/speech_script.md) | Full speech script (~850 words) ready for delivery |
+| [`presentation/slides_guide.md`](presentation/slides_guide.md) | Slide-by-slide content guide with actual image links for PowerPoint / Google Slides / Keynote |
+| [`presentation/images.md`](presentation/images.md) | 14 curated public-domain / CC-licensed images with Wikimedia Commons links, attributions, and usage tips |
+| [`presentation/references.md`](presentation/references.md) | Web resources, further reading, and recommended books for university-level study |
 
 ### Speech Structure (5 Chapters)
 

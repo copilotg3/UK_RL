@@ -16,7 +16,8 @@
 - Brief roadmap: outline the journey from causes → innovations → social change → lasting legacy
 
 ### 📌 Visual Aid Suggestion
-- **Slide**: Title slide with a dramatic painting of industrial Britain (e.g., *Coalbrookdale by Night*, 1801) to immediately set the tone
+- **Slide**: Title slide with *Coalbrookdale by Night* (1801) by Philip James de Loutherbourg — [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Philipp_Jakob_Loutherbourg_d._J._002.jpg)
+- Sets the dramatic, fiery tone of the Industrial Revolution immediately
 
 **Transition →** *"To understand how this transformation happened, we first need to ask — why Britain? Why not France, China, or any other nation?"*
 
@@ -57,7 +58,10 @@
 - Railways collapsed distance and created a truly national (and later global) market
 
 ### 📌 Visual Aid Suggestion
-- **Slide**: A timeline graphic showing the chain of innovation from 1733 to 1825, with images of the Spinning Jenny and Watt's steam engine
+- **Slide**: A timeline graphic showing the chain of innovation from 1733 to 1825, with:
+  - *Spinning Jenny* illustration (1835) — [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zeichnung_Spinning_jenny.jpg)
+  - *Boulton & Watt Steam Engine* diagram (1784) — [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SteamEngine_Boulton%26Watt_1784.png)
+  - *Stockton & Darlington Railway Opening* painting — [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:StocktonDarlingtonOpening.jpg)
 
 **Transition →** *"These machines didn't just change production — they changed people's lives in ways both extraordinary and devastating."*
 
