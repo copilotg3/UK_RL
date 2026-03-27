@@ -1,12 +1,14 @@
 # The First Industrial Revolution in the UK — Speech Outline
 
 > 🕐 Target Duration: 5–7 minutes
+>
+> 📝 A full word-for-word **speech script** (~910 words, calibrated to ~6–6.5 min) is available in [`script.md`](script.md). Use this outline for structure and the script for delivery.
 
 ---
 
 # INTRODUCTION
 
-## 1. Opening Hook (~30 s)
+## 1. Opening Hook (~35 s)
 
 > "Imagine England in 1750 — a land of farms and hand looms. Within a century, it became the workshop of the world."
 
@@ -35,7 +37,7 @@
 
 ---
 
-## 3. Key Inventions & Technological Breakthroughs (~1.5 min)
+## 3. Key Inventions & Technological Breakthroughs (~1 min 20 s)
 
 | Year | Innovation | Inventor | Impact |
 |---|---|---|---|
@@ -55,7 +57,7 @@
 
 ---
 
-## 4. Social & Economic Impacts (~1.5 min)
+## 4. Social & Economic Impacts (~1 min 10 s)
 
 ### Urbanisation
 - Manchester: 25,000 (1772) → 303,000 (1851)
@@ -78,7 +80,7 @@
 
 ---
 
-## 5. The Dark Side (~1 min)
+## 5. The Dark Side (~55 s)
 
 ### Working Conditions
 - 14–16 hour days, 6 days a week
@@ -102,7 +104,7 @@
 
 # CONCLUSION
 
-## 6. Legacy & Relevance to the Modern World (~30 s)
+## 6. Legacy & Relevance to the Modern World (~35 s)
 
 - Britain produced ~**50%** of the world's iron and cotton cloth by 1850
 - Became the dominant global economic and imperial power
@@ -112,23 +114,25 @@
 
 ---
 
-## 7. Closing (~30 s)
+## 7. Closing (~25 s)
 
 > "The First Industrial Revolution didn't just change how things were made — it changed how people lived, worked, and thought. From the spinning jenny to the steam train, a small island reshaped the modern world. As we navigate our own age of AI and automation, its story reminds us: progress is not just about machines — it's about people."
 
 ---
 
-## ⏱ Time Summary
+## ⏱ Time & Word-Count Summary
 
-| Section | Est. Time |
-|---|---|
-| 1. Opening Hook | ~30 s |
-| 2. Background: Why Britain? | ~1 min |
-| 3. Key Inventions & Breakthroughs | ~1.5 min |
-| 4. Social & Economic Impacts | ~1.5 min |
-| 5. The Dark Side | ~1 min |
-| 6. Legacy & Modern Relevance | ~30 s |
-| 7. Closing | ~30 s |
-| **Total** | **~6.5 min** |
+| Section | Target Words | Est. Time |
+|---|---|---|
+| 1. Opening Hook | ~85 | ~35 s |
+| 2. Background: Why Britain? | ~160 | ~1 min |
+| 3. Key Inventions & Breakthroughs | ~200 | ~1 min 20 s |
+| 4. Social & Economic Impacts | ~180 | ~1 min 10 s |
+| 5. The Dark Side | ~140 | ~55 s |
+| 6. Legacy & Modern Relevance | ~80 | ~35 s |
+| 7. Closing | ~65 | ~25 s |
+| **Total** | **~910** | **~6–6.5 min** |
+
+> **Pacing note**: At an average pace of 150 wpm, 910 words take ~6 min. With natural pauses the delivery lands at 6–6.5 min. Even at a slow 130 wpm pace the speech stays within 7 min. See [`script.md`](script.md) for the full controlled script.
 
 ---
