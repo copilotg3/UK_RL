@@ -1,17 +1,26 @@
-# The First Industrial Revolution in the UK — Presentation Outline
+# The First Industrial Revolution in the UK — Speech Outline
 
 > 🕐 Target Duration: 5–7 minutes
+>
+> 📝 A full word-for-word **speech script** (~910 words, calibrated to ~6–6.5 min) is available in [`script.md`](script.md). Use this outline for structure and the script for delivery.
 
 ---
 
-## 1. Opening Hook (~30s)
+# INTRODUCTION
+
+## 1. Opening Hook (~35 s)
 
 > "Imagine England in 1750 — a land of farms and hand looms. Within a century, it became the workshop of the world."
 
 - Set the scene: pre-industrial Britain
 - Pose the question: *How did a small island nation transform the entire world?*
+- Preview: "Today, we'll explore why it started here, the inventions that drove it, how it reshaped society — and why it still matters."
+
+**Transition →** *"To answer that question, let's start by looking at what made Britain the birthplace of this revolution."*
 
 ---
+
+# BODY
 
 ## 2. Background: Why Britain? (~1 min)
 
@@ -24,9 +33,11 @@
 | Financial System | Bank of England (1694); capital available for investment |
 | Culture of Innovation | Royal Society; patent system encouraged inventors |
 
+**Transition →** *"With all of these advantages in place, it was only a matter of time before a wave of invention swept the nation."*
+
 ---
 
-## 3. Key Innovations & Inventors (~1.5 min)
+## 3. Key Inventions & Technological Breakthroughs (~1 min 20 s)
 
 | Year | Innovation | Inventor | Impact |
 |---|---|---|---|
@@ -40,9 +51,13 @@
 
 **Key point**: Each invention triggered the next — a chain reaction of innovation.
 
+📊 **Visual Aid 1**: Display the [innovation timeline](images/innovation_timeline.svg) showing the chain of inventions from 1733 to 1825, illustrating how each breakthrough enabled the next. See [`visual_aids.md`](visual_aids.md) for display instructions.
+
+**Transition →** *"These machines didn't just change factories — they changed the fabric of British society itself."*
+
 ---
 
-## 4. Transformation of Society (~1.5 min)
+## 4. Social & Economic Impacts (~1 min 10 s)
 
 ### Urbanisation
 - Manchester: 25,000 (1772) → 303,000 (1851)
@@ -61,9 +76,11 @@
 - **Urban working class** (factory workers, miners)
 - Decline of the traditional landed aristocracy's dominance
 
+**Transition →** *"But progress came at a staggering human cost. Let's look at the darker side of this revolution."*
+
 ---
 
-## 5. The Dark Side (~1 min)
+## 5. The Dark Side (~55 s)
 
 ### Working Conditions
 - 14–16 hour days, 6 days a week
@@ -79,19 +96,43 @@
 - **Luddites** (1811–1816): workers smashed machines they blamed for unemployment
 - **Peterloo Massacre** (1819): peaceful protest crushed by cavalry in Manchester
 
+🖼️ **Visual Aid 2**: Display the [before & after comparison](images/before_after_comparison.svg) — rural Britain (pre-1750) next to industrial Britain (c. 1850) — to dramatise the scale of change. See [`visual_aids.md`](visual_aids.md) for display instructions.
+
+**Transition →** *"Despite the suffering, the Industrial Revolution ultimately reshaped not just Britain, but the entire modern world."*
+
 ---
 
-## 6. Legacy & Significance (~30s)
+# CONCLUSION
+
+## 6. Legacy & Relevance to the Modern World (~35 s)
 
 - Britain produced ~**50%** of the world's iron and cotton cloth by 1850
 - Became the dominant global economic and imperial power
 - Sparked worldwide industrialisation (Belgium, Germany, USA, Japan)
 - Led to reform: **Factory Acts**, trade unions, public health legislation, path toward universal suffrage
+- Set the template for every industrial revolution since — including the digital one we live through today
 
 ---
 
-## 7. Closing (~30s)
+## 7. Closing (~25 s)
 
-> "The First Industrial Revolution didn't just change how things were made — it changed how people lived, worked, and thought. From the spinning jenny to the steam train, a small island reshaped the modern world. Its echoes are still felt today — in every factory, every city, and every machine around us."
+> "The First Industrial Revolution didn't just change how things were made — it changed how people lived, worked, and thought. From the spinning jenny to the steam train, a small island reshaped the modern world. As we navigate our own age of AI and automation, its story reminds us: progress is not just about machines — it's about people."
+
+---
+
+## ⏱ Time & Word-Count Summary
+
+| Section | Target Words | Est. Time |
+|---|---|---|
+| 1. Opening Hook | ~85 | ~35 s |
+| 2. Background: Why Britain? | ~160 | ~1 min |
+| 3. Key Inventions & Breakthroughs | ~200 | ~1 min 20 s |
+| 4. Social & Economic Impacts | ~180 | ~1 min 10 s |
+| 5. The Dark Side | ~140 | ~55 s |
+| 6. Legacy & Modern Relevance | ~80 | ~35 s |
+| 7. Closing | ~65 | ~25 s |
+| **Total** | **~910** | **~6–6.5 min** |
+
+> **Pacing note**: At an average pace of 150 wpm, 910 words take ~6 min. With natural pauses the delivery lands at 6–6.5 min. Even at a slow 130 wpm pace the speech stays within 7 min. See [`script.md`](script.md) for the full controlled script.
 
 ---

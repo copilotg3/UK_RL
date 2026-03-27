@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="'Segoe UI', Arial, sans-serif">
+  <!-- Background -->
+  <rect width="900" height="420" rx="12" fill="#1a1a2e"/>
+
+  <!-- Title -->
+  <text x="450" y="42" text-anchor="middle" fill="#e8a838" font-size="22" font-weight="bold">Chain of Innovation · 1733–1825</text>
+
+  <!-- Timeline axis -->
+  <line x1="60" y1="340" x2="840" y2="340" stroke="#555" stroke-width="2"/>
+  <!-- Arrow head -->
+  <polygon points="840,340 830,334 830,346" fill="#555"/>
+
+  <!-- Helper: each milestone is a circle + year + label + icon, connected by arrows -->
+
+  <!-- 1733 Flying Shuttle -->
+  <circle cx="110" cy="340" r="8" fill="#e8a838"/>
+  <text x="110" y="368" text-anchor="middle" fill="#ccc" font-size="13">1733</text>
+  <rect x="70" y="230" width="80" height="80" rx="8" fill="#16213e" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="110" y="256" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Flying</text>
+  <text x="110" y="272" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Shuttle</text>
+  <text x="110" y="296" text-anchor="middle" fill="#e8a838" font-size="20">🧵</text>
+  <line x1="110" y1="310" x2="110" y2="332" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="110" y="220" text-anchor="middle" fill="#aaa" font-size="10">John Kay</text>
+
+  <!-- Arrow 1→2 -->
+  <line x1="150" y1="270" x2="195" y2="270" stroke="#e8a838" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="195,270 187,265 187,275" fill="#e8a838"/>
+
+  <!-- 1764 Spinning Jenny -->
+  <circle cx="230" cy="340" r="8" fill="#e8a838"/>
+  <text x="230" y="368" text-anchor="middle" fill="#ccc" font-size="13">1764</text>
+  <rect x="190" y="230" width="80" height="80" rx="8" fill="#16213e" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="230" y="256" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Spinning</text>
+  <text x="230" y="272" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Jenny</text>
+  <text x="230" y="296" text-anchor="middle" fill="#e8a838" font-size="20">🔄</text>
+  <line x1="230" y1="310" x2="230" y2="332" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="230" y="220" text-anchor="middle" fill="#aaa" font-size="10">J. Hargreaves</text>
+
+  <!-- Arrow 2→3 -->
+  <line x1="270" y1="270" x2="315" y2="270" stroke="#e8a838" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="315,270 307,265 307,275" fill="#e8a838"/>
+
+  <!-- 1769 Water Frame & Steam Engine -->
+  <circle cx="380" cy="340" r="8" fill="#e8a838"/>
+  <text x="380" y="368" text-anchor="middle" fill="#ccc" font-size="13">1769</text>
+  <rect x="320" y="180" width="120" height="130" rx="8" fill="#16213e" stroke="#e8a838" stroke-width="2"/>
+  <text x="380" y="210" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Water Frame</text>
+  <text x="380" y="228" text-anchor="middle" fill="#aaa" font-size="10">R. Arkwright</text>
+  <line x1="380" y1="238" x2="380" y2="248" stroke="#444" stroke-width="0.5"/>
+  <text x="380" y="264" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Steam Engine</text>
+  <text x="380" y="282" text-anchor="middle" fill="#aaa" font-size="10">J. Watt</text>
+  <text x="380" y="302" text-anchor="middle" fill="#e8a838" font-size="20">⚙️</text>
+  <line x1="380" y1="310" x2="380" y2="332" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="380" y="170" text-anchor="middle" fill="#e8a838" font-size="10" font-weight="bold">★ GAME-CHANGER</text>
+
+  <!-- Arrow 3→4 -->
+  <line x1="440" y1="270" x2="485" y2="270" stroke="#e8a838" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="485,270 477,265 477,275" fill="#e8a838"/>
+
+  <!-- 1779 Spinning Mule -->
+  <circle cx="530" cy="340" r="8" fill="#e8a838"/>
+  <text x="530" y="368" text-anchor="middle" fill="#ccc" font-size="13">1779</text>
+  <rect x="490" y="230" width="80" height="80" rx="8" fill="#16213e" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="530" y="256" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Spinning</text>
+  <text x="530" y="272" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Mule</text>
+  <text x="530" y="296" text-anchor="middle" fill="#e8a838" font-size="20">🧶</text>
+  <line x1="530" y1="310" x2="530" y2="332" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="530" y="220" text-anchor="middle" fill="#aaa" font-size="10">S. Crompton</text>
+
+  <!-- Arrow 4→5 -->
+  <line x1="570" y1="270" x2="615" y2="270" stroke="#e8a838" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="615,270 607,265 607,275" fill="#e8a838"/>
+
+  <!-- 1804 Steam Locomotive -->
+  <circle cx="660" cy="340" r="8" fill="#e8a838"/>
+  <text x="660" y="368" text-anchor="middle" fill="#ccc" font-size="13">1804</text>
+  <rect x="620" y="230" width="80" height="80" rx="8" fill="#16213e" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="660" y="256" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Steam</text>
+  <text x="660" y="272" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Locomotive</text>
+  <text x="660" y="296" text-anchor="middle" fill="#e8a838" font-size="20">🚂</text>
+  <line x1="660" y1="310" x2="660" y2="332" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="660" y="220" text-anchor="middle" fill="#aaa" font-size="10">R. Trevithick</text>
+
+  <!-- Arrow 5→6 -->
+  <line x1="700" y1="270" x2="745" y2="270" stroke="#e8a838" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <polygon points="745,270 737,265 737,275" fill="#e8a838"/>
+
+  <!-- 1825 First Public Railway -->
+  <circle cx="800" cy="340" r="8" fill="#e8a838"/>
+  <text x="800" y="368" text-anchor="middle" fill="#ccc" font-size="13">1825</text>
+  <rect x="750" y="230" width="100" height="80" rx="8" fill="#16213e" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="800" y="253" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">First Public</text>
+  <text x="800" y="269" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">Railway</text>
+  <text x="800" y="298" text-anchor="middle" fill="#e8a838" font-size="20">🛤️</text>
+  <line x1="800" y1="310" x2="800" y2="332" stroke="#e8a838" stroke-width="1.5"/>
+  <text x="800" y="220" text-anchor="middle" fill="#aaa" font-size="10">G. Stephenson</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="400" text-anchor="middle" fill="#aaa" font-size="12" font-style="italic">Each invention solved one problem and created demand for the next — a chain reaction of ingenuity.</text>
+</svg>
