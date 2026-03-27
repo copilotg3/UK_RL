@@ -2,18 +2,19 @@
 
 > Use this as a reference when creating your actual slides (PowerPoint / Google Slides / Keynote).
 > Keep slides **visual** and **minimal** — the script carries the detail.
+> Aligned to the **5-chapter** outline structure.
 
 ---
 
-## Slide 1: Title Slide
+## Slide 1 — Chapter 1: Introduction (Title Slide)
 
 - **Title**: The First Industrial Revolution in the UK
 - **Subtitle**: How a Small Island Changed the World
-- **Image suggestion**: A dramatic painting of industrial Britain (e.g., Coalbrookdale by Night, 1801)
+- **Image suggestion**: A dramatic painting of industrial Britain (e.g., *Coalbrookdale by Night*, 1801)
 
 ---
 
-## Slide 2: Why Britain?
+## Slide 2 — Chapter 2: Why Britain?
 
 **6 key factors (icons or simple graphics):**
 1. ⛏️ Coal & Iron
@@ -25,7 +26,7 @@
 
 ---
 
-## Slide 3: Chain of Innovation
+## Slide 3 — Chapter 3: Chain of Innovation
 
 **Timeline graphic:**
 
@@ -42,32 +43,26 @@
 
 ---
 
-## Slide 4: Society Transformed
+## Slide 4 — Chapter 4: Society Transformed & The Human Cost
 
-**Three columns:**
+**Three columns (top half):**
 
 | Urbanisation | Factory System | New Classes |
 |---|---|---|
 | Manchester: 25K → 303K | Cottage → Factory | Middle class rises |
 | Mass migration to cities | Machine-paced work | Working class emerges |
 
-- **Image suggestion**: Aerial/map view of Manchester's growth, or factory interior painting
-
----
-
-## Slide 5: The Dark Side
-
-**Three impactful facts (large text):**
+**Three impactful facts (bottom half, large text):**
 
 - 👶 Children as young as **5** in factories
 - ⏰ **14–16 hour** working days
-- 💬 Life expectancy in Manchester: **17 years**
+- 💀 Life expectancy in Manchester: **17 years**
 
-- **Image suggestion**: Historical illustration of child labour in mines
+- **Image suggestion**: Split layout — factory interior painting (left) and historical illustration of child labour (right)
 
 ---
 
-## Slide 6: Legacy
+## Slide 5 — Chapter 5: Legacy & Closing
 
 **Key statistic (large, bold):**
 
@@ -79,11 +74,7 @@
 - Rise of trade unions
 - Path toward democracy
 
----
-
-## Slide 7: Closing
-
-**Quote on screen:**
+**Closing quote:**
 
 > *"The First Industrial Revolution didn't just change how things were made — it changed how people lived, worked, and thought."*
 
