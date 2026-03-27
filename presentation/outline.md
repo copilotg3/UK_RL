@@ -51,7 +51,7 @@
 
 **Key point**: Each invention triggered the next — a chain reaction of innovation.
 
-📊 **Visual Aid**: Display a timeline graphic showing the chain of inventions from 1733 to 1825, illustrating how each breakthrough enabled the next.
+📊 **Visual Aid 1**: Display the [innovation timeline](images/innovation_timeline.svg) showing the chain of inventions from 1733 to 1825, illustrating how each breakthrough enabled the next. See [`visual_aids.md`](visual_aids.md) for display instructions.
 
 **Transition →** *"These machines didn't just change factories — they changed the fabric of British society itself."*
 
@@ -96,7 +96,7 @@
 - **Luddites** (1811–1816): workers smashed machines they blamed for unemployment
 - **Peterloo Massacre** (1819): peaceful protest crushed by cavalry in Manchester
 
-🖼️ **Visual Aid**: Show a side-by-side comparison — a serene rural village (pre-1750) next to a crowded, smoky industrial city (c. 1850) — to dramatize the scale of change.
+🖼️ **Visual Aid 2**: Display the [before & after comparison](images/before_after_comparison.svg) — rural Britain (pre-1750) next to industrial Britain (c. 1850) — to dramatise the scale of change. See [`visual_aids.md`](visual_aids.md) for display instructions.
 
 **Transition →** *"Despite the suffering, the Industrial Revolution ultimately reshaped not just Britain, but the entire modern world."*
 

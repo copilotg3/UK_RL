@@ -36,6 +36,8 @@ Add to that a strong financial system — the Bank of England had been running s
 
 **[~200 words · ~1 min 20 s]**
 
+*📊 [Display Visual Aid 1 — Innovation Timeline]*
+
 And the sparks came fast.
 
 In 1733, John Kay invented the flying shuttle, which doubled the speed of weaving. That created a bottleneck: weavers now needed thread faster than hand-spinners could produce it. So in 1764, James Hargreaves built the Spinning Jenny, a machine that could spin multiple threads at once. Richard Arkwright's water frame followed in 1769, moving spinning out of homes and into purpose-built factories powered by rivers.
@@ -45,6 +47,8 @@ But the real game-changer was James Watt's improved steam engine, also in 1769. 
 Innovation kept compounding. Samuel Crompton's spinning mule in 1779 produced finer, stronger thread at scale. Then came steam-powered transport: Richard Trevithick's locomotive in 1804, and in 1825 George Stephenson opened the Stockton-to-Darlington line — the world's first public railway. Suddenly, raw materials and finished goods could cross the country in hours rather than days.
 
 Each invention solved one problem and created demand for the next. It was a chain reaction of ingenuity that, within decades, turned Britain into the workshop of the world.
+
+*📊 [Remove Visual Aid 1]*
 
 ---
 
@@ -68,6 +72,8 @@ And entirely new social classes emerged. Factory owners and merchants formed a r
 
 **[~140 words · ~55 s]**
 
+*🖼️ [Display Visual Aid 2 — Before & After Comparison]*
+
 But progress came at a staggering human cost.
 
 Factory workers endured fourteen- to sixteen-hour days, six days a week, surrounded by dangerous, unguarded machinery. Children as young as five were sent into mines and mills — cheap, small, and expendable.
@@ -75,6 +81,8 @@ Factory workers endured fourteen- to sixteen-hour days, six days a week, surroun
 Living conditions in the new cities were appalling. Overcrowded slums, open sewers, and filthy water bred waves of cholera, typhus, and tuberculosis. The Chadwick Report of 1842 found that average life expectancy in some industrial cities had fallen to just seventeen years.
 
 Not everyone accepted this quietly. The Luddites, between 1811 and 1816, smashed the machines they blamed for their misery. And in 1819, at St Peter's Field in Manchester — the Peterloo Massacre — cavalry charged into a peaceful crowd demanding reform, killing several and injuring hundreds. The dark side of progress was impossible to ignore.
+
+*🖼️ [Remove Visual Aid 2]*
 
 ---
 
